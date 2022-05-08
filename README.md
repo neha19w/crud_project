@@ -6,3 +6,5 @@ Steps -
 3.Import sql file and view table on phpmyadmin 
 4.Run api on postman
 
+![alt text](./view_item.png)
+![alt text](./add_item.png)
